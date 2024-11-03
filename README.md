@@ -20,7 +20,7 @@ As a budding researcher who mainly depends on numerical analysis more than writi
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gauthameshwar&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/06145086-0f4a-41e9-aa8a-32015dd6f4d3" width="200" alt="Coding GIF" />
+      <img src="https://github.com/user-attachments/assets/4722cedd-30b7-431d-bb3a-31767abe227a" width="460" alt="Coding GIF" />
     </td>
   </tr>
 </table>
